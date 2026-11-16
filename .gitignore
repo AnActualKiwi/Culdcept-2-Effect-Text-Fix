@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.part
+*.iso
+.build-patch.log
+.apply-test.log
+.ps-apply-test.log
+.test-tmp/
+release/
+dist/
