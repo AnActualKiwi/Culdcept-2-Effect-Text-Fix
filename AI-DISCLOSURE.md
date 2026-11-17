@@ -1,20 +1,20 @@
 ## History
 
-I am entirely self taught when it comes to coding and have a basic understanding of C++ & Python, and the ability to read assembly, though without much understanding.
-I started this project back in 2023 and was able to make proof of concept of the new text being implemented but this was as far as my skill could take me.
+I am entirely self taught when it comes to coding and have a basic understanding of C++ & Python, and the ability to read assembly, though without much understanding.  
+I started this project back in 2023 and was able to make proof of concept of the new text being implemented but this was as far as my skill could take me.  
 
-I quickly ran into concerns about injecting custom mips assembly and dealing with pointer tables and code caves and by this point this was my first official coding project.
-Ultimately I shelved the project as I didn't have the time to continue learning programming as a hobby and I was certain someone else would take on this idea.
+I quickly ran into concerns about injecting custom mips assembly and dealing with pointer tables and code caves and by this point this was my first official coding project.  
+Ultimately I shelved the project as I didn't have the time to continue learning programming as a hobby and I was certain someone else would take on this idea.  
 
-When the hype around decomps & recomps through Claude started surfacing I was keeping a watchful eye on the space as the potential for modding seemed quite interesting.
-Later down the line I decided to trial a free tool - Freebuff for use with basic projects and to test the waters and see if I can develop personal small scale projects.
-This snowballed once I realized how far AI agents have come & I made the decision to make the Culdcept patch a reality.
+When the hype around decomps & recomps through Claude started surfacing I was keeping a watchful eye on the space as the potential for modding seemed quite interesting.  
+Later down the line I decided to trial a free tool - Freebuff for use with basic projects and to test the waters and see if I can develop personal small scale projects.  
+This snowballed once I realized how far AI agents have come & I made the decision to make the Culdcept patch a reality.  
 
 # AI Disclosure 
 
-A strong Majority of the work was completed by the AI with constant oversight over the course of 2 weeks.
-I would monitor Freebuff & give specific commands referencing memory I was able to find live in PCSX2 & using Ghidra functions partially decompiled by Freebuff.
-The below is a rundown from the latest context window of the AI who I've directed to provide their input on the project.
+A strong Majority of the work was completed by the AI with constant oversight over the course of 2 weeks.  
+I would monitor Freebuff & give specific commands referencing memory I was able to find live in PCSX2 & using Ghidra functions partially decompiled by Freebuff.  
+The below is a rundown from the latest context window of the AI who I've directed to provide their input on the project.  
 
 **Project:** Culdcept 2 Effect Text Fix  
 
